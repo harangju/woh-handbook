@@ -13,8 +13,7 @@ is a community of blockchain gamers who came together to\
 _play, earn, build, and share_.
 {: .fs-6 .fw-300 }
 
-[WoH Gaming](https://woh.games){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
-<!-- [Handbook](https://handbook.woh.games){: .btn .fs-5 .mb-4 .mb-md-0 } -->
+[WoH Gaming](https://woh.games){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [Handbook](https://handbook.woh.games){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
 
